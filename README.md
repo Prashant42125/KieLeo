@@ -55,12 +55,12 @@ $ go install github.com/tomnomnom/waybackurls@latest
 
 🧪 Usage
 ```bash
-./recon.sh <domain> <flags>
+./KieLeo.sh <domain> <flags>
 ```
 
 ```bash
 🔹 Example:
-./recon.sh example.com --httpx --urls --whois
+./KieLeo.sh example.com --httpx --urls --whois
 ```
 
 📖 Available Flags
