@@ -1,4 +1,4 @@
-<img height="500px" width="600px" src="https://github.com/Prashant42125/KieLeo/blob/main/Banner.png?raw=true"/>
+<img height="550px" width="800px" src="https://github.com/Prashant42125/KieLeo/blob/main/Banner.png?raw=true"/>
 
 
 # 🕷️ KIELEO
@@ -96,6 +96,3 @@ Prashant Swami
 ```bash
 🔗 LinkedIn : https://www.linkedin.com/in/prashant-s-swami
 ```
-
- A quick demo is available to show how KieLeo works.
- 
