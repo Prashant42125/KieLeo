@@ -1,4 +1,4 @@
-<img height="300px" width="500px" src="https://github.com/Prashant42125/KieLeo/blob/main/Banner.png?raw=true"/>
+<img height="500px" width="600px" src="https://github.com/Prashant42125/KieLeo/blob/main/Banner.png?raw=true"/>
 
 
 # 🕷️ KIELEO
