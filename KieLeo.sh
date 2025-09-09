@@ -146,7 +146,7 @@ for arg in "$@"; do
 
         -p|--parameter)
             echo -e "${BLUE}[-] Running ParamSpider...${RESET}"
-            python3 /home/kalki343/project/ParamSpider/paramspider.py -d "$DOMAIN" | tee parameter.txt
+            python3 paramspider.py -d "$DOMAIN" | tee parameter.txt
             echo -e "${GREEN}[+] Parameters saved to parameter.txt${RESET}"
             divider
             ;;
