@@ -24,9 +24,9 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/shadowrecon.git
-cd shadowrecon
-chmod +x recon.sh
+git clone https://github.com/Prashant42125/KieLeo
+cd KieLeo
+chmod +x KieLeo.sh
 ```
 
 
